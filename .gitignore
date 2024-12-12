@@ -22,3 +22,18 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+java/.DS_Store
+java/.idea/compiler.xml
+java/.idea/encodings.xml
+java/.idea/google-java-format.xml
+java/.idea/jarRepositories.xml
+java/.idea/misc.xml
+java/.idea/vcs.xml
+.DS_Store
+java/target/test-classes/selenium-snapshot.png
+java/target/test-classes/extensions/webextensions-selenium-example.crx
+java/target/test-classes/extensions/selenium-example/manifest.json
+java/target/test-classes/extensions/selenium-example/inject.js
+java/target/test-classes/extensions/selenium-example.xpi
+java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+java/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
